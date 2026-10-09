@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-08-31T03:00:19.168892735Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-09T06:55:39.020480664Z",
     "templateType": "trip_d",
     "propertyId": "27f5a300-af83-468a-8198-6612869f6d2e",
     "homepageId": "a5782108-bf8a-43d9-b2b8-488770570933"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.",
-    "usageGuide": "- 예약 인원 확인 필수.  \n- 무인 운영으로 현장 결제는 이체로만 가능.\n- 개인 귀중품 분실훼손은 책임지지 않음.  \n- 집기 파손 시 즉시 관리자에게 알림 필요.  \n- 퇴실 시 음식물 포함 모든 쓰레기 분리수거 및 주방기구 세척 필수.  \n- 방문객 발생 시 입실 전 사전 연락 필요.  \n- 개인 화기(숯그릴버너 등) 반입사용 금지, 전용 시설만 이용 가능.\n- 객실 내 고기, 생선류 취사 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가요금]\n※ 영유아 (24개월 미만): 무료이나 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 바베큐그릴+숯\n- 이용 요금: 2인 기준 30,000원 / 추가시 1인 5,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 무인 시스템으로 이용시간 따로 제한 없습니다.\n\n[애견동반]\n- 이용 객실: 전 객실\n- 제한 무게: 10kg 미만\n- 제한 마릿수: 2마리\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 사항: 털빠짐 심하고 배변훈련이 안된 경우, 공격성이 심한 반려견\n- 애견 비품: 애견식기류, 배변패드, 애견욕조, 애견타올 구비\n- 제한 사항: 모든 견종 입실 가능\n- 반려동물 허용 종류: 반려견 및 반려묘 가능\n※ 생리중인 반려견은 기저귀, 마킹이 있는 반려견은 매너벨트 필수 \n※ 공용 및 개인공간(주차장, 잔디, 데크 등)의 반려견 배설물 등은 즉각 정리부탁드립니다.\n※ 반려견의 돌발행동이나 부주의로 인한 사고 및 피해는 견주의 책임으로 통제부탁드립니다. \n※ 야외활동 후 객실 입장 시 물티슈로 반려견 발바닥을 닦아주세요\n※ 펜션 내에서 반려견은 목줄,배변봉투를 꼭 지참하여 이동해주시길 바랍니다.\n\n[애견부대시설]\n- 전 객실 개별 잔디마당 보유\n- 전 객실 드라이룸 보유\n\n[불멍]\n- 이용 요금: 25,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 이용 장소: 개별 잔디마당\n\n[편의 및 주변 시설]\n- OTT 이용 가능\n※ 넷플릭스, 유튜브 이용 가능\n※ OTT 개인계정 필요\n- 엘레베이터 미보유\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n\n- 화랑설화마을 펜션에서 차량 26분\n- 임고서원 펜션에서 차량 33분\n- 운주산승마자연휴양림 펜션에서 차량 36분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 전기차 충전기 이용 불가\n\n[교통편]\n- 자가용 이용 시\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 경북 경산시 와촌면 음양리 674\n- 도로명 주소 : 경북 경산시 와촌면 음양3길 41-46\n\n- 대중교통 이용 시\n- 하양역 - 하양역1 승차-하양1번 승차-음양2리 하차-도보15분-펜션도착\n\n- 주변관광지와의 거리\n- 1.화랑설화마을 펜션에서 차량 26분\n- 2.임고서원 펜션에서 차량 33분\n- 3.운주산승마자연휴양림 펜션에서 차량 36분",
+    "usageGuide": "[공지사항]\n- 예약 인원 확인 필수.  \n- 무인 운영으로 현장 결제는 이체로만 가능.\n- 개인 귀중품 분실훼손은 책임지지 않음.  \n- 집기 파손 시 즉시 관리자에게 알림 필요.  \n- 퇴실 시 음식물 포함 모든 쓰레기 분리수거 및 주방기구 세척 필수.  \n- 방문객 발생 시 입실 전 사전 연락 필요.  \n- 개인 화기(숯그릴버너 등) 반입사용 금지, 전용 시설만 이용 가능.\n- 객실 내 고기, 생선류 취사 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 (24개월 미만): 무료이나 인원수에 포함\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 바베큐그릴+숯\n- 이용 요금: 2인 기준 30,000원 / 추가시 1인 5,000원(1박기준/현장결제)\n- 신청 시간: 제한없음\n- 이용 시간: 제한없음\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 무인 시스템으로 이용시간 따로 제한 없습니다.\n\n[애견동반]\n- 이용 객실: 전 객실\n- 제한 무게: 10kg 미만\n- 제한 마릿수: 2마리\n- 이용 요금: 1마리당 20,000원 (1박기준/현장결제)\n- 제한 사항: 털빠짐 심하고 배변훈련이 안된 경우, 공격성이 심한 반려견\n- 애견 비품: 애견식기류, 배변패드, 애견욕조, 애견타올 구비\n- 제한 사항: 모든 견종 입실 가능\n- 반려동물 허용 종류: 반려견 및 반려묘 가능\n※ 생리중인 반려견은 기저귀, 마킹이 있는 반려견은 매너벨트 필수 \n※ 공용 및 개인공간(주차장, 잔디, 데크 등)의 반려견 배설물 등은 즉각 정리부탁드립니다.\n※ 반려견의 돌발행동이나 부주의로 인한 사고 및 피해는 견주의 책임으로 통제부탁드립니다. \n※ 야외활동 후 객실 입장 시 물티슈로 반려견 발바닥을 닦아주세요\n※ 펜션 내에서 반려견은 목줄,배변봉투를 꼭 지참하여 이동해주시길 바랍니다.\n\n[애견부대시설]\n- 전 객실 개별 잔디마당 보유\n- 전 객실 드라이룸 보유\n\n[불멍]\n- 이용 요금: 25,000원 (1박기준/현장결제)\n- 이용 시간: ~23:00\n- 이용 장소: 개별 잔디마당\n\n[편의 및 주변 시설]\n- OTT 이용 가능\n※ 넷플릭스, 유튜브 이용 가능\n※ OTT 개인계정 필요\n- 엘레베이터 미보유\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 엘레베이터 보유\n\n- 화랑설화마을 펜션에서 차량 26분\n- 임고서원 펜션에서 차량 33분\n- 운주산승마자연휴양림 펜션에서 차량 36분\n\n[주차장]\n- 주차장 보유\n- 이용 요금: 무료\n- 전기차 충전기 이용 불가\n\n[교통편]\n- 자가용 이용 시\n※ 아래 주소 중 하나를 검색해주세요.\n- 지번 주소 : 경북 경산시 와촌면 음양리 674\n- 도로명 주소 : 경북 경산시 와촌면 음양3길 41-46\n\n- 대중교통 이용 시\n- 하양역 - 하양역1 승차-하양1번 승차-음양2리 하차-도보15분-펜션도착\n\n- 주변관광지와의 거리\n- 1.화랑설화마을 펜션에서 차량 26분\n- 2.임고서원 펜션에서 차량 33분\n- 3.운주산승마자연휴양림 펜션에서 차량 36분",
     "reservationGuide": "- 예약 인원 확인 필수.  \n- 무인 운영으로 현장 결제는 이체로만 가능.\n- 개인 귀중품 분실훼손은 책임지지 않음.  \n- 집기 파손 시 즉시 관리자에게 알림 필요.  \n- 퇴실 시 음식물 포함 모든 쓰레기 분리수거 및 주방기구 세척 필수.  \n- 방문객 발생 시 입실 전 사전 연락 필요.  \n- 개인 화기(숯그릴버너 등) 반입사용 금지, 전용 시설만 이용 가능.\n- 객실 내 고기, 생선류 취사 금지",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "stage-ipple.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1200775",
     "ybsId": "73599",
+    "tripPropertyId": "5966",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "주차장",
       "흡연구역(지정장소)"
@@ -306,7 +309,7 @@
           {
             "id": "ba22543d-fd77-4d9e-865f-1480140d4423",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/kpsDW5TtH4nZ.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -316,7 +319,7 @@
           {
             "id": "c66519b4-cc9b-4025-8462-c88c0c8eedd5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/IQF9ZsJ8zEDy.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -324,7 +327,7 @@
           {
             "id": "8bbe3174-e1e6-485d-9b27-420570966b37",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/f6FAnkSXNTEa.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -332,7 +335,7 @@
           {
             "id": "ab6dfe2e-96e5-4eb2-a9ff-e8ba720628f5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/7UaujAyr6GCo.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -340,7 +343,7 @@
           {
             "id": "03601d9b-0cca-4847-a4eb-c003b8adc1fd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/lCIeNx6tTWoJ.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -348,7 +351,7 @@
           {
             "id": "c99f972d-a192-4a71-aa00-f3de91bb95ad",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/sPzyZmwKrfA0.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -356,7 +359,7 @@
           {
             "id": "efe447bc-c0f5-4c26-83fd-8d7b8b35bce6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/63mIMlN5U4ds.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -364,7 +367,7 @@
           {
             "id": "9914493f-5068-4e0c-ba55-e932980ce3c1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/4U9oi5TqFxvR.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -372,7 +375,7 @@
           {
             "id": "6da72db8-2619-490b-aaa3-519d95f1f4e9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/27/5hrEnaozLRpF.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1081,6 +1084,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
