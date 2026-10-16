@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-10-16T13:00:39.283767567Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-10-16T13:01:44.496595117Z",
     "templateType": "trip_d",
     "propertyId": "27f5a300-af83-468a-8198-6612869f6d2e",
     "homepageId": "a5782108-bf8a-43d9-b2b8-488770570933"
@@ -72,7 +72,7 @@
       {
         "id": "01a144cc-1185-7080-bd83-77ed915fe76e",
         "name": "마운틴뷰",
-        "description": "싱그러운 자연을 감상하며 조용한 휴식의 시간을 보내보세요.",
+        "description": "",
         "usageGuide": "",
         "displayOrder": 0,
         "images": [
@@ -1037,7 +1037,28 @@
             ]
           }
         ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "01a144cc-1185-7080-bd83-77ed915fe76e",
+            "sections": [
+              {
+                "hero": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "싱그러운 자연을 감상하며 조용한 휴식의 시간을 보내보세요.",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
